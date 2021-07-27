@@ -1,0 +1,20 @@
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BITHELP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\bin\Debug\WindowsFormsApp1.exe.config
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\bin\Debug\WindowsFormsApp1.exe
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\bin\Debug\WindowsFormsApp1.pdb
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.exe
+D:\Juliano\Meus Programas\UPDATE_IMPRESSORA\obj\Debug\WindowsFormsApp1.pdb
